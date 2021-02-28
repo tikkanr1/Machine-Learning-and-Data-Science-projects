@@ -7,7 +7,7 @@ Two different approaches:
   -Using XGBregressor and GridSearch to try and optimize parameters  
 
 **Results**  
-fbprophet
+fbprophet  
 ![image](https://user-images.githubusercontent.com/67264647/109420405-ee227880-79da-11eb-9c3f-0964ac988906.png)
 
 
