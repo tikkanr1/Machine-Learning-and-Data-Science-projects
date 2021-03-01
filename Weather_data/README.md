@@ -9,3 +9,4 @@ The approach showed that using just half of the maximum number of principal comp
 
 ![image](https://user-images.githubusercontent.com/67264647/109554146-88b6b080-7adc-11eb-95c3-89251ad8f0e7.png)
 
+![image](https://user-images.githubusercontent.com/67264647/109554189-9704cc80-7adc-11eb-862d-afbb265ea57b.png)
