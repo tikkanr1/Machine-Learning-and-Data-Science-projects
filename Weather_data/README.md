@@ -7,6 +7,8 @@ Predict humidity by minimizing dimensionality with PCA and using LinearRegressio
 **Results**  
 The approach showed that using just half of the maximum number of principal components available gives decent results
 
-![image](https://user-images.githubusercontent.com/67264647/109554146-88b6b080-7adc-11eb-95c3-89251ad8f0e7.png)
+![image](https://user-images.githubusercontent.com/67264647/109617093-a3217600-7b3e-11eb-943f-1466cb53c6bb.png)
 
-![image](https://user-images.githubusercontent.com/67264647/109554189-9704cc80-7adc-11eb-862d-afbb265ea57b.png)
+
+However increasing the maximum number of principal components to 12 proves to give much better results.
+![image](https://user-images.githubusercontent.com/67264647/109616956-7b321280-7b3e-11eb-8908-b39894618b86.png)
