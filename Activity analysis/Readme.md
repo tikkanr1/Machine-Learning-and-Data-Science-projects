@@ -12,7 +12,6 @@ their activity levels with the recommendations set by authorities and non-profit
 organizations such as the World Health Organization (WHO).
 
 **Results**  
-
 Most of the participants showed unhealthy levels of activity and sleep during the test period, and some participants showed very
 unhealthy lifestyles. The participants with least healthy lifestyles were both inactive and sleeping too little. The results are 
 in agreement with the presented studies and recommendations set for activity and sleep.
