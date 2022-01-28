@@ -1,12 +1,12 @@
 **Goal**  
 Analyzing the daily activity of FitBit activity tracker users.
 
-**The data**
+**The data**  
 The FitBit tracker dataset consists of personal tracker data collected from 30 eligible FitBit users between 03.12.2016-05.12.2016. 
 The data includes minute-level output for physical activity, heart rate, and sleep monitoring. 
 The data is available at https://www.kaggle.com/arashnic/fitbit. 
 
-**Approach**
+**Approach**  
 The objective of this study was to analyze users' activity and behaviour using statistical methods and to compare
 their activity levels with the recommendations set by authorities and non-profit
 organizations such as the World Health Organization (WHO).
