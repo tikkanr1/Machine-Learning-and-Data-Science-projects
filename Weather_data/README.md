@@ -2,7 +2,7 @@
 Predicting humidity using given weatherdata
 
 **Approach**  
-Predict humidity by minimizing dimensionality with PCA and using LinearRegression from sklearn library
+Predict humidity by minimizing dimensionality with PCA and using LinearRegression
 
 **Results**  
 The approach showed that using just half of the maximum number of principal components available gives decent results
