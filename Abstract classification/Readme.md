@@ -5,8 +5,8 @@ Classification of abstracts of scientific publications using natural language pr
 1. Data preprocessing (tokenization, stemming, lemmatization)
 2. Transformation into tfidf (term frequency * inverse document frequency) form
 3. Classification using two clustering methods:
-  a. Basic K-means clustering.
-  b. Scatter/Gather Buckshot clustering with ngrams.
+  a) Basic K-means clustering.
+  b) Scatter/Gather Buckshot clustering with ngrams.
 
 **Results**  
 The accuracy of the results were measured using normalized mutual information(NMI).
