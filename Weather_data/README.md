@@ -1,11 +1,11 @@
 **Goal**  
-Predicting humidity using given weatherdata
+Predicting humidity using given weatherdata.
 
 **Approach**  
-Predict humidity by minimizing dimensionality with PCA and using LinearRegression
+Predict humidity by minimizing dimensionality with PCA and using LinearRegression.
 
 **Results**  
-The approach showed that using just half of the maximum number of principal components available gives decent results
+The approach showed that using just half of the maximum number of principal components available gives decent results.
 
 ![image](https://user-images.githubusercontent.com/67264647/109617093-a3217600-7b3e-11eb-943f-1466cb53c6bb.png)
 
